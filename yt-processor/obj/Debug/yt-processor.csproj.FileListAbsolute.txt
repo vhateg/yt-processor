@@ -1,0 +1,11 @@
+C:\Users\vhateg\source\repos\yt-processor\yt-processor\bin\Debug\yt-processor.exe
+C:\Users\vhateg\source\repos\yt-processor\yt-processor\bin\Debug\yt-processor.pdb
+C:\Users\vhateg\source\repos\yt-processor\yt-processor\obj\Debug\yt-processor.csprojAssemblyReference.cache
+C:\Users\vhateg\source\repos\yt-processor\yt-processor\obj\Debug\yt_processor.Form1.resources
+C:\Users\vhateg\source\repos\yt-processor\yt-processor\obj\Debug\yt_processor.Properties.Resources.resources
+C:\Users\vhateg\source\repos\yt-processor\yt-processor\obj\Debug\yt-processor.csproj.GenerateResource.cache
+C:\Users\vhateg\source\repos\yt-processor\yt-processor\obj\Debug\yt-processor.csproj.CoreCompileInputs.cache
+C:\Users\vhateg\source\repos\yt-processor\yt-processor\obj\Debug\yt-processor.exe
+C:\Users\vhateg\source\repos\yt-processor\yt-processor\obj\Debug\yt-processor.pdb
+C:\Users\vhateg\source\repos\yt-processor\yt-processor\bin\Debug\yt-processor.exe.config
+C:\Users\vhateg\source\repos\yt-processor\yt-processor\bin\Debug\youtube-dl.exe
